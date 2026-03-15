@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love cricket
 - I am currently working as Full Stack Developer at Societe Generale Global Solution Centre, Banglore.
-- I have more than 2.5 years of work experience.
+- I have more than 4 years of work experience.
 - I have worked on Java, .Net, React
 
 <!---
